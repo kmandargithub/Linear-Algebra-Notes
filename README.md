@@ -1,3 +1,3 @@
 # Collection of Linear Algebra Notes
 
-## Linear Algebra & Multivariable Calculus
+### 1. Linear Algebra & Multivariable Calculus
